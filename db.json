@@ -1,16 +1,49 @@
 {
-  "posts":[
+  "productos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "10000"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "700",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "zanahoria",
+      "precio": 180,
+      "id": 12
+    },
+    {
+      "nombre": "papas",
+      "precio": 140,
+      "id": 13
+    },
+    {
+      "nombre": "manzanas",
+      "precio": "43556",
+      "id": 15
     }
   ],
-  "comments" : [
+  "clientes": [],
+  "usuarios": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "firstName": "Marcos",
+      "lastName": "Iglesias",
+      "username": "markkos89",
+      "password": "algofacil",
+      "id": 1
     }
   ]
 }
